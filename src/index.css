@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.about{
+    min-height:calc(-112px + 100vh);
+}
+
+.content{
+    max-width: 1200px;
+}
+
+.modl{
+    width: 600px;
+}
